@@ -83,5 +83,5 @@ The full dataset was large, so a sample dataset is provided in this repository f
 
 👩‍💻**Author:**
 Harshita Pandey
-Aspiring Data Analyst
-Skills: SQL | Python | Power BI | Excel | Data Visualization
+| Aspiring Data Analyst
+| SQL | Python | Power BI | Excel | Data Visualization
