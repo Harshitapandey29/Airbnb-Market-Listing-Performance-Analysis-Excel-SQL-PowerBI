@@ -1,12 +1,14 @@
 # 🏠Airbnb Market & Listing Performance Analysis
 
 📌**Project Overview:**
+
 This project analyzes Airbnb listings to understand market trends, pricing patterns, demand, and listing performance across different neighbourhoods using an interactive Power BI dashboard.
 The dashboard transforms raw Airbnb data into actionable business insights that help identify high-demand locations, pricing trends, and popular room types.
 
 ----
 
 🎯**Objectives:**
+
 The main objectives of this project are:
 
 - Analyze Airbnb listing distribution across neighbourhoods.
@@ -19,6 +21,7 @@ The main objectives of this project are:
 ----
 
 📊**Dashboard Features:**
+
 KPI Metrics-
 The dashboard highlights key performance indicators:
 - Total Listings
@@ -33,6 +36,7 @@ The dashboard highlights key performance indicators:
 ![Dashboard Overview](Airbnb_Dashboard.png)
 
 🎛**Interactive Filters:**
+
 The dashboard allows dynamic filtering using 
 1. Neighbourhood Filter-
 - Bronx
@@ -50,6 +54,7 @@ These filters help explore location-specific trends and guest preferences.
 ----
 
 🔍**Key Insights:**
+
 - Queens has the highest average listing price, suggesting premium properties or stronger pricing in this neighbourhood.
 - Bronx listings receive the highest average number of reviews, indicating higher booking demand.
 - Entire homes dominate Airbnb listings (~52%), suggesting that guests prefer private accommodations.
@@ -58,6 +63,7 @@ These filters help explore location-specific trends and guest preferences.
 ----
 
 📂**Dataset:**
+
 The dataset includes Airbnb listing information such as:
 - Listing ID
 - Host details
@@ -69,12 +75,13 @@ The dataset includes Airbnb listing information such as:
 - Availability status
 - Minimum nights
 
-⚠️*Note:**
+⚠️*Note:*
 The full dataset was large, so a sample dataset is provided in this repository for demonstration purposes.
 
 ----
 
 🛠**Tools & Technologies:**
+
 - Power BI → Data visualization & dashboard creation
 - SQL → Data exploration and analysis
 - Dataset → Data storage and preprocessing
@@ -82,6 +89,7 @@ The full dataset was large, so a sample dataset is provided in this repository f
 ----
 
 👩‍💻**Author:**
+
 Harshita Pandey
 | Aspiring Data Analyst
 | SQL | Python | Power BI | Excel | Data Visualization
