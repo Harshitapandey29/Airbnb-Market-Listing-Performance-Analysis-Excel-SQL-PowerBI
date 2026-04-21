@@ -30,7 +30,7 @@ The dashboard highlights key performance indicators:
 
 📸**Dashboard Preview:**
 
-![Dashboard Overview]()
+![Dashboard Overview](Airbnb_Dashboard)
 
 🎛**Interactive Filters:**
 The dashboard allows dynamic filtering using 
