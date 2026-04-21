@@ -28,6 +28,10 @@ The dashboard highlights key performance indicators:
 
 ----
 
+📸**Dashboard Preview:**
+
+![Dashboard Overview]()
+
 🎛**Interactive Filters:**
 The dashboard allows dynamic filtering using 
 1. Neighbourhood Filter-
@@ -74,10 +78,6 @@ The full dataset was large, so a sample dataset is provided in this repository f
 - Power BI → Data visualization & dashboard creation
 - SQL → Data exploration and analysis
 - Dataset → Data storage and preprocessing
-
-----
-
-📸**Dashboard Preview:**
 
 ----
 
